@@ -7,7 +7,7 @@ Here, we implement and simulate the empirical normalization results of Carandini
 ---
 ### Replicating Results :
 
-Please first download [Imagenette](https://github.com/fastai/imagenette) (a subset of Imagenet) and update the appropriate path in `data_helper.py`.
+Please first download [Imagenette](https://github.com/fastai/imagenette) (a subset of Imagenet) and update the appropriate path in `data_helper.py`
 
 To demonstrate how input redundancies are reduced (proxied by pixel decorrelation) via normalization, run:
 ```
